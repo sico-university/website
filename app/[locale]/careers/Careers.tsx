@@ -276,7 +276,7 @@ function JobApplicationForm({ link }: { link: string }) {
                     <span className="inline-flex items-center space-x-0.5 text-stone-600 dark:text-stone-300 md:ml-1">
                       <TbMail className="h-4 w-4" />
                       <a
-                        href="mailto:mail@zzzhizhi.top"
+                        href="mailto:zzzhizhi@ourmoc.cn"
                         className="text-stone-600 no-underline hover:underline dark:text-stone-300"
                       >
                         {text}

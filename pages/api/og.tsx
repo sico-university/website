@@ -33,7 +33,7 @@ export default async function handler(req: NextRequest) {
           flexDirection: 'column',
           alignItems: 'flex-start',
           justifyContent: 'center',
-          backgroundImage: `url(https://xku.zzzhizhi.top/assets/og-bg-${locale}.jpg)`,
+          backgroundImage: `url(https://xku.ourmoc.cn/assets/og-bg-${locale}.jpg)`,
         }}
       >
         {subtitle && (

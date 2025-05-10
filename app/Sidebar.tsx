@@ -58,7 +58,7 @@ const social = [
   },
   {
     name: 'Email',
-    url: 'mailto:mail@zzzhizhi.top',
+    url: 'mailto:zzzhizhi@ourmoc.cn',
     icon: TbMail,
   },
 ]
